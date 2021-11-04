@@ -1,5 +1,2 @@
 # Quadris
-A Tetris Inspired ConsoleApp
-
-
-# DISCLAIMER: THIS CODE IS SLIGHTLY LESS GARBAGE, BUT CAN PROBABLY USE MORE WORK.
+A Tetris inspired game for terminals, written in C#.
